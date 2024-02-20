@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.one{
+    width: 24%;
+    height: 250px;
+    background-color: brown;
+    color: #fff;
+}
+
+.one h2{
+    line-height: 250px;
+    text-align: center;
+}
